@@ -1,0 +1,40 @@
+.body{
+    /* border: 2px solid black;
+    width: 30%;
+    margin: auto; */
+}
+.what{
+    width: 40%;
+    margin-left: 3vw;
+    margin-top: 2vh;
+    font-weight: 800;
+    font-size: x-large;
+border-radius:5px;
+}
+.where{
+    width: 40%;
+    margin-left: 8vw;
+    font-weight: 800;
+    font-size: x-large;
+    border-radius:5px;
+}
+.why{
+    width: 40%;
+    margin-left: 3vw;
+    margin-top: 2vh;
+    font-weight: 800;
+    font-size: x-large;
+    border-radius:5px;
+}
+.date{
+    width: 40%;
+    margin-left: 2vw;
+    font-weight: 800;
+    font-size: x-large;
+    border-radius:5px;
+}
+.savebtn{
+    margin-left: 3vw;
+    height: 4vh;
+    background-color: rgb(48, 103, 242);
+}
